@@ -55,4 +55,4 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ## Author
 
-Bhavesh Vishwakarma
+Rahul Vishwakarma
